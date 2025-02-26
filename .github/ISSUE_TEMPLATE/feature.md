@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: 💡 Feature Request
 about: Have an idea?
 title: "[Feature]: "
 labels: enhancement
