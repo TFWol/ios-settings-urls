@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question about this project
+about: Have a question?
 title: "[Question]: "
 labels: question
 assignees: ''
